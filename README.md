@@ -43,5 +43,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagommdev/)](https://www.linkedin.com/in/thiagommdev/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:thiagommm.dev@gmail.com)](mailto:thiagomm.dev@gmail.com)
-![Instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/thi.m.m)
-
+<a href="https://www.instagram.com/thi.m.m/">
+![Instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+</a>
