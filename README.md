@@ -6,7 +6,7 @@
 <br />
 <h4> Some infos </h4>
 <ul>
-  <li>  I'm not working at the moment, but I want to! 👷 </li>
+  <li>  I'm Working! I'm a front end developer at <a href="www.mobly.com.br">Mobly!</a> 👷 </li>
   <li>  I'm currently learning ReactJs and NextJs ( Jamstack ) 🌟</li>
   <li>  I’m looking to collaborate on projects! Just call me! 👐</li>
   <li>  The last event I joined was: Imersão Alura - Focused on React and Next ⚡</li>
