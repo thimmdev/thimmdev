@@ -6,10 +6,10 @@
 <br />
 <h4> Some infos </h4>
 <ul>
-  <li>  I'm Working! I'm a front end developer at <a href="www.mobly.com.br">Mobly!</a> 👷 </li>
-  <li>  I'm currently learning ReactJs and NextJs ( Jamstack ) 🌟</li>
+  <li>  I'm not Working at the moment, but i want to, and I have some experience 👷 </li>
+  <li>  I'm currently learning ReactJs / Typescript and NextJs (  ) 🌟</li>
   <li>  I’m looking to collaborate on projects! Just call me! 👐</li>
-  <li>  The last event I joined was: Imersão Alura - Focused on React and Next ⚡</li>
+  <li>  The next event I'll join is: Rocketseat - Ignite Lab ⚡</li>
   <li>
    My Cthulhu Quiz and 9 other colleagues projects were chosen to be the "top 10 projects" at #imersaoalura 🏆 - 
   <a href="https://github.com/thimmdev/imersaoalura-quiz/"><img width="60" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Cthulhu Quiz"/> </a>
