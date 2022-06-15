@@ -1,6 +1,6 @@
 ### Hi there! 👋
 <p> Welcome, make yourself comfortable.</p>
-<p> My name is <b>Thiago Machado</b>, 29, and I'm currently living in Florianópolis/SC - <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> 
+<p> My name is <b>Thiago Machado</b>, 30, and I'm currently living in Florianópolis/SC - <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> 
 </p>
 <p> Worked as a designer for 12 years, and now I'm focused to be a great <b>developer!</b> ⭐ </p>
 <br />
