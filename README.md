@@ -30,7 +30,6 @@
 ![StyledComponents Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![ESLint Badge](https://img.shields.io/badge/-ESLint-5b1094?style=for-the-badge&logoColor=black)
 
-[![Thimmdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=thimmdev&show_icons=true&theme=dark)](https://github.com/thimmdev/github-readme-stats)
 
   
 ## ☺️ Author
